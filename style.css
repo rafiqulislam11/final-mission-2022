@@ -1,0 +1,40 @@
+
+.green{
+                    width: 400px;
+                    height: 200px;
+                    background-color: green;
+                    position: relative;
+}
+.red{
+                    width: 150px;
+                    height: 150px;
+                    background-color: red;
+                    border-radius: 100px;
+                    margin-top: 50px;
+                    margin: auto;
+
+}
+
+.div1{
+background-color: rgb(87, 148, 87);
+width: 200px;
+height: 200px;
+}
+.div2{
+background-color: lightgreen;
+width: 200px;
+height: 200px;
+}
+.div3{
+background-color:yellow;
+width: 200px;
+height: 200px;
+                    
+}
+
+.parent{
+                    display: flex;
+                    align-items: center;
+                    text-align: justify;
+                    justify-content: space-around;
+}
